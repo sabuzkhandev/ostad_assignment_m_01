@@ -1,5 +1,4 @@
-# ostad_assignment_m_01
-assignment Question List
+Assignment Question List
 =======================================================================================================
 Project (Module 1)
 ## Practice Projects on Module 1 Topics (variable, constant, if else, switch)
